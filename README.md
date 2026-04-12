@@ -1,7 +1,7 @@
 # Excel Data Analysis & Interactive Dashboard Project
 
 ## Project Overview
-This project is an end-to-end Excel data analysis solution that includes data cleaning, transformation, pivot table analysis, and an interactive dashboard to extract business insights and support decision-making.
+This project is an end-to-end Excel data analysis solution that includes data cleaning, transformation, pivot table analysis, and an interactive dashboard to extract business insights and support decision-making. Data is large, that's why i've only posted the screenshot of the dashboard.
 
 ## Data Cleaning Process
 - Removed duplicates
