@@ -1,51 +1,88 @@
 # Excel Data Analysis & Interactive Dashboard Project
 
 ## Project Overview
-This project is an end-to-end Excel data analysis solution that includes data cleaning, transformation, pivot table analysis, and an interactive dashboard to extract business insights and support decision-making. Data is large, that's why i've only put all the files here in this link : https://drive.google.com/drive/folders/1IHSA9nSlgeRB9cvti1xXS-ztj6mFr_wO?usp=sharing
+This is an end-to-end Excel data analysis project that includes data cleaning, transformation, pivot table analysis, and an interactive dashboard.
+
+The goal of this project is to transform raw sales data into meaningful business insights that support decision-making.
+
+Data is large, so the dataset and files are hosted here:  
+https://drive.google.com/drive/folders/1IHSA9nSlgeRB9cvti1xXS-ztj6mFr_wO?usp=sharing
+
+
+## Business Problem
+A retail business is struggling to understand its sales performance across different categories, time periods, and customer segments.
+
+Management wants to answer key questions such as:
+
+- What are the main drivers of revenue and profit?
+- Which product categories are performing best and worst?
+- How does profit margin vary across categories and time?
+- Is the business growing or declining over time?
+- Which segments should be prioritized to maximize profitability?
+
+The goal is to identify performance trends and provide data-driven recommendations to improve revenue and profit.
+
 
 ## Data Cleaning Process
-- Removed duplicates
-- Handled missing values (blanks)
-- Corrected data types (dates, numbers, text formatting)
+- Removed duplicate records to ensure data accuracy  
+- Handled missing values (blanks) appropriately  
+- Standardized data formats (dates, numbers, text)  
+- Ensured consistency in categorical values  
 
-## Analysis
-- Revenue and Profit analysis
-- Year-over-year growth calculation
-- Profit margin analysis
-- Category-wise performance breakdown
-- Top-performing categories identification
+
+## Analysis Performed
+- Revenue and profit analysis  
+- Year-over-year performance comparison  
+- Profit margin analysis  
+- Category-wise performance breakdown  
+- Identification of top-performing categories  
+- Monthly trend analysis for sales performance  
+
 
 ## Dashboard Features
 The interactive Excel dashboard includes:
-- Slicers for dynamic filtering (Year, Category, Channel)
-- KPI cards (Total Sales, Profit, Profit Margin, Number of Orders)
-- Top 5 categories visualization
-- Trend analysis charts (growth over months)
-- Interactive pivot charts
 
-## Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Charts & Visualizations
-- Slicers
-- Data Cleaning Functions
+- Slicers for dynamic filtering (Year, Category, Channel)  
+- KPI cards:
+  - Total Sales  
+  - Total Profit  
+  - Profit Margin  
+  - Number of Orders  
+- Top 5 performing categories visualization  
+- Monthly trend analysis (sales & growth patterns)  
+- Interactive pivot charts for deeper exploration  
+
 
 ## Key Insights
-- Sales and profit show a clear variation across months and categories.
-- A small number of categories contribute significantly to total revenue.
-- Profit margins vary strongly depending on category performance.
-- 2024 shows decline trends compared to others.
-- 'Fruits' is the best category depending on units sold.
+- Sales and profit vary significantly across months and product categories  
+- A small number of categories generate a large portion of total revenue  
+- Profit margins differ strongly depending on category performance  
+- 2024 shows a noticeable decline compared to previous years  
+- Certain categories (e.g., Fruits) perform best in terms of unit sales  
+
 
 ## Recommendations
-- Focus on high-performing categories to maximize revenue growth.
-- Improve low-margin categories to increase profitability.
-- Monitor yearly performance to identify growth patterns early.
-- Use dashboard regularly for data-driven decision making.
-- Focus more on high-performing countries.
+- Focus marketing and inventory on high-performing categories to maximize revenue  
+- Improve or optimize low-margin categories to increase profitability  
+- Monitor yearly performance trends to detect early signs of decline  
+- Use dashboard insights regularly for data-driven decision-making  
+- Expand high-performing segments and reduce focus on underperforming ones  
+
+
+## What I Learned
+Through this project, I strengthened my skills in:
+
+- Cleaning and structuring raw datasets in Excel  
+- Using Pivot Tables for advanced data analysis  
+- Building interactive dashboards using slicers and charts  
+- Translating raw data into meaningful business insights  
+- Identifying trends and performance drivers in retail data  
+- Presenting findings in a clear, business-oriented way  
+
 
 ## Project Goal
-To transform raw data into actionable business insights using Excel-based analytics and visualization tools to help businesses take the best decision and maximize their profits.
+To convert raw retail data into actionable business insights using Excel analytics and visualization tools, enabling better decision-making and improved profitability.
+
 
 ## Author
 Iyed Mbarki
